@@ -1,2 +1,3 @@
 # Dimorfimes
-Bones Balsells, no se de que va això
+
+Draw dimorphisms with this simple java applet
