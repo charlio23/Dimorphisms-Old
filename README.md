@@ -1,3 +1,3 @@
 # Dimorfimes
 
-Draw dimorphisms with this simple java applet
+Draw dimorphisms with this simple java applet.
